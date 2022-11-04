@@ -1,0 +1,23 @@
+{
+  "name": "otot-b4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punpun1643/OTOT-B4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Punpun1643/OTOT-B4/issues"
+  },
+  "homepage": "https://github.com/Punpun1643/OTOT-B4#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
